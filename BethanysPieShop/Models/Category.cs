@@ -11,6 +11,5 @@ namespace BethanysPieShop.Models
         public string CategoryName { get; set; }
         public string Description { get; set; }
         public List<Pie> Pies { get; set; }
-
     }
 }
