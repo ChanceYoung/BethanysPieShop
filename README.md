@@ -2,7 +2,7 @@
 
 The Purpose of this repository is to showcase my learning while following the Pluralsight Course: *Building Web Applications with ASP.NET core MVC*
 
-##What did I learn?
+## What did I learn?
 
 09/28
 ---
